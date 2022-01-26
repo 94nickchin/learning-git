@@ -1,5 +1,0 @@
-def add(nums):
-    added_num = 0
-    for num in nums:
-        added_num += num
-    return added_num
